@@ -31,14 +31,14 @@ body {
 }
 
 h1, h2, h5 {
-    color: #284260; /* cor-secundaria */
+    color: #5b9ae2; /* cor-secundaria */
     font-weight: 700;
     margin: 10px 0;
 }
 
 .destaque {
     font-weight: 700;
-    color: #C92BFC; /* cor-destaque */
+    color: #000000; /* cor-destaque */
     margin-top: 10px;
 }
 
@@ -85,7 +85,7 @@ h1, h2, h5 {
 }
 
 .botao-link {
-    color: #C92BFC; /* cor-destaque */
+    color: #29252b; /* cor-destaque */
     background: none;
     border: none;
     cursor: pointer;
@@ -104,7 +104,7 @@ a {
 }
 
 a:hover {
-    color: #C92BFC; /* cor-destaque */
+    color: #000000; /* cor-destaque */
 }
 
 footer {
